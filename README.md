@@ -6,7 +6,6 @@ Project ini menggunakan dataset Pima Indians Diabetes dari Kaggle untuk membangu
 
 - `data/` : dataset
 - `notebooks/` : file Jupyter notebook
-- `scripts/` : script Python tambahan (opsional)
 - `requirements.txt` : library yang diperlukan
 
 ## Cara Menjalankan
